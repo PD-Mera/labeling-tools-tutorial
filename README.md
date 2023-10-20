@@ -66,6 +66,8 @@ Next and previous image with `D -> A`
 
 Label with `W`
 
+Delete `.\data\classes.txt` after labeling
+
 ## Label format
 
 With `YOLO` format, label will be saved with format `label_index x_center y_center w h` and normalize to scale `[0, 1]`
